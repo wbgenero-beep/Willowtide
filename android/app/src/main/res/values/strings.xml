@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Bountu</string>
+    <string name="title_activity_main">Bountu</string>
+    <string name="package_name">com.crelistic.bountu</string>
+    <string name="custom_url_scheme">com.crelistic.bountu</string>
+</resources>
